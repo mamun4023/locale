@@ -1,8 +1,3 @@
 {
-  
-  CANCELLED: 'Cancelled',
-  CARD_NUMBER: 'Card Number',
-  CARDHOLDERS_NAME: "Cardholder's Name",
-  CATALOG: 'Catalog',
-
+  "CANCELLED" : "Cancelled",
 }
