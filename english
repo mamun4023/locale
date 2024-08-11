@@ -1397,6 +1397,3 @@
     "Webhooks allow external services to be notified when certain events happen. When the specified events happen, we'll send a POST request to the URLs you provide",
   NOT_SELECTED: 'Not Selected',
 }
-
-export type TLanguage = typeof en
-export default en
