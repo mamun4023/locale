@@ -1,3 +1,5 @@
 {
-  "CANCELLED" : "Cancelled"
+  "ADD" : "Add",
+  "ADD_CLIENT" : "Add new client",
+  "ADD_CUSTOM_DOMAIN" : "Add customer domain"
 }
